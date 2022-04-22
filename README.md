@@ -1,11 +1,11 @@
 # Terraform Tags
 
-## About:
+## About
 
 The project helps to stay the whole structure documented.
 This registry the creator name and resource prefix names.
 
-## How To Deploy:
+## How To Deploy
 
 This module should be consumed by [Terragrunt App Demo](https://github.com/Dev-Marques-Ops-Live-Infrastructure/terragrunt-app-demo) Project.
 
